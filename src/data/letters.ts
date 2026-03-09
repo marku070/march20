@@ -16,7 +16,7 @@ export const letters: Letter[] = [
     id: 1,
     title: "Letter 1",
     content: "Dear Aditi,\n\nThis is where your first letter goes. Write something heartfelt and beautiful here. This placeholder text is meant to be replaced with your personal message.\n\nWith love ❤️",
-    unlockDate: "2026-03-10",
+    unlockDate: "2026-03-11",
   },
   {
     id: 2,
